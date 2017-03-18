@@ -26,7 +26,7 @@ var article={
             heading:'article two on cyber security',
             date:'March 10th 2017 ',
             content:`
-                <body background:url("https://www.google.co.in/imgres?imgurl=http%3A%2F%2Fwww.saugeentimes.com%2FPictures%2FBackground%2520Gradients%2FDeepBlue1.png&imgrefurl=http%3A%2F%2Fwww.dgtees.info%2Fbthingbcol-background.html&docid=Kkv_hZhbANZMQM&tbnid=zEHQiNnFnBFYHM%3A&vet=10ahUKEwjk8P6U3eDSAhUJNo8KHcPQCaQ4rAIQMwhiKF8wXw..i&w=1024&h=768&itg=1&bih=662&biw=1366&q=background%20image&ved=0ahUKEwjk8P6U3eDSAhUJNo8KHcPQCaQ4rAIQMwhiKF8wXw&iact=mrc&uact=8#h=768&imgrc=zEHQiNnFnBFYHM:&vet=10ahUKEwjk8P6U3eDSAhUJNo8KHcPQCaQ4rAIQMwhiKF8wXw..i&w=1024")>
+                <body>
                 hai this is manoj duli
                 </body>`
        },
