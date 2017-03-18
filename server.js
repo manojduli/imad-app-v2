@@ -26,11 +26,9 @@ var article={
             heading:'article two on cyber security',
             date:'March 10th 2017 ',
             content:`
-                <h1 id="title"> <i>Cyber security:</i></h1>
-                <h5 id="section">
-                    Computer security, also known as cybersecurity or IT security, is the protection of computer systems from the theft or damage to the hardware, software or the information on them, as well as from disruption or misdirection of the services they provide.<br/>
-                 </h5>`
-        
+                <body background:url("https://www.google.co.in/imgres?imgurl=http%3A%2F%2Fwww.saugeentimes.com%2FPictures%2FBackground%2520Gradients%2FDeepBlue1.png&imgrefurl=http%3A%2F%2Fwww.dgtees.info%2Fbthingbcol-background.html&docid=Kkv_hZhbANZMQM&tbnid=zEHQiNnFnBFYHM%3A&vet=10ahUKEwjk8P6U3eDSAhUJNo8KHcPQCaQ4rAIQMwhiKF8wXw..i&w=1024&h=768&itg=1&bih=662&biw=1366&q=background%20image&ved=0ahUKEwjk8P6U3eDSAhUJNo8KHcPQCaQ4rAIQMwhiKF8wXw&iact=mrc&uact=8#h=768&imgrc=zEHQiNnFnBFYHM:&vet=10ahUKEwjk8P6U3eDSAhUJNo8KHcPQCaQ4rAIQMwhiKF8wXw..i&w=1024")>
+                hai this is manoj duli
+                </body>`
        },
     'article-three': {
             title:'article three | manoj duli',
