@@ -9,40 +9,39 @@ var article={
     'article-one': {
         title:'article one | manoj duli',
         heading:'article one',
-        date:'19 th november 2016',
+        date:'March 5th 2017',
         content:`
-            <p>
-                    HAI THIS IS "MANOJ DULI"THIS IS MY FIRST ARTICLE. HAI THIS IS "MANOJ DULI" THIS IS MY FIRST ARTICLE.HAI THIS IS "MANOj DULI"THIS IS MY FIRST ARTICLE. HAI THIS IS "MANOJ DULI"THIS IS MY FIRST ARTICLE.
-            </p>
-                                 
-            <p>
-                    HAI THIS IS "MANOJ DULI"THIS IS MY FIRST ARTICLE. HAI THIS IS "MANOJ DULI" THIS IS MY FIRST ARTICLE.HAI THIS IS "MANOJ DULI"THIS IS MY FIRST ARTICLE. HAI THIS IS "MANOJ DULI"THIS IS MY FIRST ARTICLE.
-                        
-            </p>
-            <p>
-                    HAI THIS IS "MANOJ DULI"THIS IS MY FIRST ARTICLE. HAI THIS IS "MANOJ DULI" THIS IS MY FIRST ARTICLE.HAI THIS IS "MANOJ DULI"THIS IS MY FIRST ARTICLE. HAI THIS IS "MANOJ DULI"THIS IS MY FIRST ARTICLE.
-            </p>` 
+                <h1 id="title"> <i>Cyber security:</i></h1>
+                <h5 id="section">
+                    Computer security, also known as cybersecurity or IT security, is the protection of computer systems from the theft or damage to the hardware, software or the information on them, as well as from disruption or misdirection of the services they provide.<br/>
+                        <br/>
+                    It includes controlling physical access to the hardware, as well as protecting against harm that may come via network access, data and code injection, and due to malpractice by operators, whether intentional, accidental, or due to them being tricked into deviating from secure procedures.
+                </h5>`
+        
                 
                 
     },
     'article-two': {
-        title:'article two | manoj duli',
+            title:'article two | manoj duli',
             heading:'article two',
-            date:'15 th november 2016',
+            date:'March 10th 2017 ',
             content:`
-                <p>
-                    HAI THIS IS "MANOJ DULI"THIS IS MY SECOND ARTICLE. HAI THIS IS "MANOJ DULI" THIS IS MY SECOND ARTICLE.
-                </p>`
+                <h1 id="title"> <i>Cyber security:</i></h1>
+                <h5 id="section">
+                    Computer security, also known as cybersecurity or IT security, is the protection of computer systems from the theft or damage to the hardware, software or the information on them, as well as from disruption or misdirection of the services they provide.<br/>
+                 </h5>`
+        
        },
     'article-three': {
-        title:'article two | manoj duli',
-            heading:'article two',
+            title:'article three | manoj duli',
+            heading:'article three',
             date:'11 th november 2016',
             content:`
-                <p>
-                    HAI THIS IS "MANOJ DULI"THIS IS MY SECOND ARTICLE. HAI THIS IS "MANOJ DULI" THIS IS MY SECOND ARTICLE.
-                </p>`
-   
+               <h1 id="title"> <i>Cyber security:</i></h1>
+                <h5 id="section">
+                    Computer security, also known as cybersecurity or IT security, is the protection of computer systems from the theft or damage to the hardware, software or the information on them, as well as from disruption or misdirection of the services they provide.<br/>
+                 </h5>`
+        
     
     }
 };
