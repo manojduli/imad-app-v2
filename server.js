@@ -27,10 +27,14 @@ var article={
             date:'March 10th 2017 ',
             content:`
                 <body >
-                    1)Protects networks and resources.
-                    2)Protects  against data from theft.
-                    3)Increase in cyber defense.
-                    4}Increase in cyber speed.
+                    1)  Protects networks and resources.
+                    2)  Protects  against data from theft.
+                    3)  Increase in cyber defense.
+                    4)  Increase in cyber speed.
+                    5)  Increases the security.
+                    6)	Protects systems and computers against virus worms and malware.
+                    7)  Browse the safe web site.
+
 
                     
                 </body>`
