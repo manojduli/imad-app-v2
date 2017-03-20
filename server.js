@@ -40,16 +40,16 @@ var article={
                     </ul>
                     </h5>
                 <h1 class="body"> <i>Dis Advantages of Cyber security:</i></h1>    
-                <h5>
-                    <ul id="heads" <h5> >
+                <
+                    <ul id="heads" >
                 
-                        <li>Makes the system slower than before.</li>
+                        <li <h5>>Makes the system slower than before.< </h5> /li>
                         <li>Need to keep updating the software in order to keep security up to date.</li>
                         <li>Firewalls will be difficult to configure correctly</li>
                         <li>Huge amount of loss in money for the banks, companies etc.</li>
                 
-                    </ul </h5>>
-                </h5>
+                    </ul >
+                
                     
                 </body>`
        },
