@@ -27,7 +27,9 @@ var article={
             date:'March 10th 2017 ',
             content:`
                 <body >
-                    Protects networks and resources.
+                    1)Protects networks and resources.
+                    2)Protects  against data from theft.
+                    
                 </body>`
        },
     'article-three': {
