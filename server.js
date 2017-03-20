@@ -29,6 +29,9 @@ var article={
                 <body >
                     1)Protects networks and resources.
                     2)Protects  against data from theft.
+                    3)Increase in cyber defense.
+                    4}Increase in cyber speed.
+
                     
                 </body>`
        },
