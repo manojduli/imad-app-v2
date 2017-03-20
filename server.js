@@ -30,13 +30,13 @@ var article={
                 <h1 class="body"> <i>Advantages of Cyber security:</i></h1>
                    <h5>
                     <ul id="heads">
-                      <li>Protects networks and resources. </li>
-                       <li>Protects  against data from theft. </li>
-                       <li>Increase in cyber defense. </li>
-                       <li>Increase in cyber speed. </li>
-                       <li>Increases the security. </li>
-                       <li>Protects systems and computers against virus worms and malware. </li>
-                       <li>Browse the safe web site. </li>
+                      <li>Protects networks and resources.</h3> </li>
+                       <li><h3>Protects  against data from theft.</h3> </li>
+                       <li><h3>Increase in cyber defense. </h3></li>
+                       <li><h3>Increase in cyber speed. </h3></li>
+                       <li><h3>Increases the security.</h3> </li>
+                       <li><h3>Protects systems and computers against virus worms and malware.</h3> </li>
+                       <li><h3>Browse the safe web site.</h3></li>
                     </ul>
                     </h5>
                 <h1 class="body"> <i>Dis Advantages of Cyber security:</i></h1>    
