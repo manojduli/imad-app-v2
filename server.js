@@ -62,7 +62,14 @@ var article={
             
                <h1  class="body"> <i>Cyber security:</i></h1>
                 <h5 id="section">
-                    Computer security, also known as cybersecurity or IT security, is the protection of computer systems from the theft or damage to the hardware, software or the information on them, as well as from disruption or misdirection of the services they provide.<br/>
+                <ul id="heads" >
+                    <li><h3>	For every second, 18 members are becoming a victims of cyber-crime.</h3></li>
+                    <li><h3>	India ranks in the 5th position in cyber-crimes with 16.9%.</h3></li>
+                    <li><h3>	Maharashtra and Uttar Pradesh ranks top in cyber-crimes.</h3></li>
+                    <li><h3>	80,000 cyber-attacks has been done from 9th -12th December after note ban.</h3></li>
+                    <li><h3>	1 million cyber security jobs in 2016.</h3></li>
+                </ul>
+
                  </h5>
             </body>`
         
