@@ -28,14 +28,15 @@ var article={
             content:`
                 <body >
                 <h1 class="body"> <i>Advantages of Cyber security</i></h1>
-                    1)  Protects networks and resources.
-                    2)  Protects  against data from theft.
-                    3)  Increase in cyber defense.
-                    4)  Increase in cyber speed.
-                    5)  Increases the security.
-                    6)	Protects systems and computers against virus worms and malware.
-                    7)  Browse the safe web site.
-
+                    <ul>
+                      <li>Protects networks and resources. </li>
+                       <li>Protects  against data from theft. </li>
+                       <li>Increase in cyber defense. </li>
+                       <li>Increase in cyber speed. </li>
+                       <li>Increases the security. </li>
+                       <li>Protects systems and computers against virus worms and malware. </li>
+                       <li>Browse the safe web site. </li>
+                    </ul>
                     
                     1)	Makes the system slower than before.
                     2)	Need to keep updating the software in order to keep security up to date.
