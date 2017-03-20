@@ -27,6 +27,7 @@ var article={
             date:'March 10th 2017 ',
             content:`
                 <body >
+                <h1 class="body"> <i>Cyber security:</i></h1>
                     1)  Protects networks and resources.
                     2)  Protects  against data from theft.
                     3)  Increase in cyber defense.
@@ -34,6 +35,12 @@ var article={
                     5)  Increases the security.
                     6)	Protects systems and computers against virus worms and malware.
                     7)  Browse the safe web site.
+
+                    
+                    1)	Makes the system slower than before.
+                    2)	Need to keep updating the software in order to keep security up to date.
+                    3)	Firewalls will be difficult to configure correctly
+                    4)	Huge amount of loss in money for the banks, companies etc.
 
 
                     
