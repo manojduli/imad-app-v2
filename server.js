@@ -60,7 +60,7 @@ var article={
             content:`
             <body >
             
-               <h1  class="body"> <i>Cyber security:</i></h1>
+              
              <h1 class="body"> <i>Facts of Cyber security:</i></h1>
                 <ul id="heads" >
                     <li><h3>	For every second, 18 members are becoming a victims of cyber-crime.</h3></li>
