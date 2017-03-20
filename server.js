@@ -8,7 +8,7 @@ app.use(morgan('combined'));
 var article={
     'article-one': {
         title:'article one | manoj duli',
-        heading:'article one on cyber security',
+        heading:'<h2 id="tags">article one on cyber security</h2>',
         date:'March 5th 2017',
         content:`
                 <h1 class="body"> <i>Cyber security:</i></h1>
@@ -24,7 +24,7 @@ var article={
     'article-two': {
             title:'article two | manoj duli',
             heading:'<h2 id="tags">article two on cyber security</h2>',
-            date:'March 10th 2017 ',
+            date:'March 10th 2017' ,
             content:`
                 <body >
                 <h1 class="body"> <i>Advantages of Cyber security:</i></h1>
@@ -55,7 +55,7 @@ var article={
        },
     'article-three': {
             title:'article three | manoj duli',
-            heading:'article three on cyber security',
+            heading:'<h2 id="tags">article three on cyber security</h2>',
             date:'March 15 th 2017',
             content:`
             <body >
