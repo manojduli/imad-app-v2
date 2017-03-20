@@ -27,7 +27,7 @@ var article={
             date:'March 10th 2017 ',
             content:`
                 <body >
-                     hai this is manoj duli
+                    Protects networks and resources.
                 </body>`
        },
     'article-three': {
