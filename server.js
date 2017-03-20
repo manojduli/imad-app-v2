@@ -43,9 +43,9 @@ var article={
                 <
                     <ul id="heads" >
                 
-                        <li <h5>>Makes the system slower than before.< </h5> /li>
-                        <li>Need to keep updating the software in order to keep security up to date.</li>
-                        <li>Firewalls will be difficult to configure correctly</li>
+                        <h5><li >Makes the system slower than before.< /li></h5>
+                        <h5><li>Need to keep updating the software in order to keep security up to date.</li></h5>
+                        <h5><li>Firewalls will be difficult to configure correctly</li></h5>
                         <li>Huge amount of loss in money for the banks, companies etc.</li>
                 
                     </ul >
