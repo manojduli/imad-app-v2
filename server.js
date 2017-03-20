@@ -23,7 +23,7 @@ var article={
     },
     'article-two': {
             title:'article two | manoj duli',
-            heading:'article two on cyber security',
+            heading:'<h2 class="body">article two on cyber security</h2>',
             date:'March 10th 2017 ',
             content:`
                 <body >
