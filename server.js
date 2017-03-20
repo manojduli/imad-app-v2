@@ -9,7 +9,7 @@ var article={
     'article-one': {
         title:'article one | manoj duli',
         heading:'<h2 id="tags">article one on cyber security</h2>',
-        date:'id="heads"March 5th 2017</h2>',
+        date:'< h2 id="heads">March 5th 2017</h2>',
         content:`
                 <h1 class="body"> <i>Cyber security:</i></h1>
                 <h5 id="section">
@@ -56,7 +56,7 @@ var article={
     'article-three': {
             title:'article three | manoj duli',
             heading:'<h2 id="tags">article three on cyber security</h2>',
-            date:'id="heads"March 15 th 2017</h2>',
+            date: '<h2 id="heads">March 15 th 2017</h2>',
             content:`
             <body >
             
