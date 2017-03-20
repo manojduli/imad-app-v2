@@ -37,12 +37,13 @@ var article={
                        <li>Protects systems and computers against virus worms and malware. </li>
                        <li>Browse the safe web site. </li>
                     </ul>
-                    
-                    1)	Makes the system slower than before.
-                    2)	Need to keep updating the software in order to keep security up to date.
-                    3)	Firewalls will be difficult to configure correctly
-                    4)	Huge amount of loss in money for the banks, companies etc.
-
+                <h1 class="body"> <i>Dis Advantages of Cyber security</i></h1>    
+                    <ul>
+                        <li>Makes the system slower than before.</li>
+                        <li>Need to keep updating the software in order to keep security up to date.</li>
+                        <li>Firewalls will be difficult to configure correctly</li>
+                        <li>Huge amount of loss in money for the banks, companies etc.</li>
+                    </ul>
 
                     
                 </body>`
