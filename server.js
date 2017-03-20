@@ -89,11 +89,11 @@ function createTemplate(data){
          <div>
              <a href="/">Home</a>
              <span style="display:inline-block; width: 100;"></span>
-             <a href="/article-one">ARTICLE ONE</a>
+             <a href="/article-one" id="heads">ARTICLE ONE</a>
              <span style="display:inline-block; width: 100;"></span>
-             <a href="/article-two">ARTICLE TWO</a>
+             <a href="/article-two" id="heads">ARTICLE TWO</a>
              <span style="display:inline-block; width: 100;"></span>
-             <a href="/article-three">ARTICLE THREE</a>
+             <a href="/article-three" id="heads">ARTICLE THREE</a>
          </div>
          <h3>
             ${heading}
