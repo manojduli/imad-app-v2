@@ -35,10 +35,13 @@ var article={
             heading:'article three on cyber security',
             date:'March 15 th 2017',
             content:`
-               <h1 id="title"> <i>Cyber security:</i></h1>
+            <body >
+            
+               <h1  class="body"> <i>Cyber security:</i></h1>
                 <h5 id="section">
                     Computer security, also known as cybersecurity or IT security, is the protection of computer systems from the theft or damage to the hardware, software or the information on them, as well as from disruption or misdirection of the services they provide.<br/>
-                 </h5>`
+                 </h5>
+            </body>`
         
     
     }
