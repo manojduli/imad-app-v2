@@ -61,7 +61,7 @@ var article={
             <body >
             
                <h1  class="body"> <i>Cyber security:</i></h1>
-                <h5 id="section">
+             <h1 class="body"> <i>Advantages of Cyber security:</i></h1>
                 <ul id="heads" >
                     <li><h3>	For every second, 18 members are becoming a victims of cyber-crime.</h3></li>
                     <li><h3>	India ranks in the 5th position in cyber-crimes with 16.9%.</h3></li>
@@ -69,8 +69,8 @@ var article={
                     <li><h3>	80,000 cyber-attacks has been done from 9th -12th December after note ban.</h3></li>
                     <li><h3>	1 million cyber security jobs in 2016.</h3></li>
                 </ul>
-
-                 </h5>
+                </h1>
+                
             </body>`
         
     
