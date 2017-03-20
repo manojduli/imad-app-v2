@@ -27,7 +27,7 @@ var article={
             date:'March 10th 2017 ',
             content:`
                 <body >
-                <h1 class="body"> <i>Cyber security:</i></h1>
+                <h1 class="body"> <i>Advantages of Cyber security</i></h1>
                     1)  Protects networks and resources.
                     2)  Protects  against data from theft.
                     3)  Increase in cyber defense.
