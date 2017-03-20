@@ -29,6 +29,7 @@ var article={
                 <body >
                 <h1 class="body"> <i>Advantages of Cyber security</i></h1>
                     <ul id="heads">
+                    <h5>
                       <li>Protects networks and resources. </li>
                        <li>Protects  against data from theft. </li>
                        <li>Increase in cyber defense. </li>
@@ -36,13 +37,16 @@ var article={
                        <li>Increases the security. </li>
                        <li>Protects systems and computers against virus worms and malware. </li>
                        <li>Browse the safe web site. </li>
+                    </h5>
                     </ul>
                 <h1 class="body"> <i>Dis Advantages of Cyber security</i></h1>    
                     <ul id="heads">
+                    <h5>
                         <li>Makes the system slower than before.</li>
                         <li>Need to keep updating the software in order to keep security up to date.</li>
                         <li>Firewalls will be difficult to configure correctly</li>
                         <li>Huge amount of loss in money for the banks, companies etc.</li>
+                    </h5>
                     </ul>
 
                     
